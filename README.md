@@ -6,4 +6,4 @@
 
 List of Projects in the directory
 
-* Single-Page Cv
+* <a href="https://frontend-projects-theta-one.vercel.app/">Single-Page Cv</a>
